@@ -15,4 +15,5 @@ $ xbacklight -set 50
 Increments can be used instead of absolute values, for example to increase or decrease brightness by 10%:
 
 $ xbacklight -inc 10
+
 $ xbacklight -dec 10
