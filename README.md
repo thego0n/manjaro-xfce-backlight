@@ -1,11 +1,11 @@
 # manjaro-xfce-backlight
-commands to make the brightness work up/down on manjaro OS
+Commands to make the brightness work up/down on manjaro OS. 
 
-Alot of people have been havin problems with brightness settings of manjaro, this is a solution that may work for some users.
+Alot of people have been having problems with brightness settings of manjaro after kernel updates.
+This may work as a temporary solution for some users.
 
-{{}{}{}{}{}{}{}{}{}{{}{}{}{}{}{}{{}{}{}{}{}{}{{}{}{}{}{}{}{}{}{}{]
 
-xbacklight
+xbacklight 
 
 Brightness can be set using the xorg-xbacklight package.
 Note:
